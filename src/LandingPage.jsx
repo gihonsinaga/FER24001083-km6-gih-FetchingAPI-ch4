@@ -21,7 +21,7 @@ const LandingPage = () => {
   const activeStyle = {
     borderBottom: "2px solid white",
   };
-  //mobile web
+  //mobile web responsive
   const content = (
     <div className="lg:hidden block absolute top-16 w-full left-0 right-0 bg-slate-900 transition">
       <ul className="text-center text-xl p-20">
