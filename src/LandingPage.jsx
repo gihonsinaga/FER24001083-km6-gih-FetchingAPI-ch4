@@ -56,7 +56,7 @@ const LandingPage = () => {
 
   return (
     <div>
-      {/* navbar */}
+      {/* navbar statis */}
       <nav>
         <div className="nav flex bg-black fixed top-0 w-full justify-between h-10vh z-50 text-white px-20 py-8 flex-1">
           <div className="flex bg-white rounded-full justify-center w-[200px]">
