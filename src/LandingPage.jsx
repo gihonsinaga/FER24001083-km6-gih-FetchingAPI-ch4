@@ -126,7 +126,6 @@ const LandingPage = () => {
           </div>
           <div>{click && content}</div>
           <button className="block sm:hidden transition" onClick={handleClick}>
-            {" "}
             {click ? <FaTimes /> : <CiMenuFries />}
           </button>
         </div>
